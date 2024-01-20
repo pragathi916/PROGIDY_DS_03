@@ -1,2 +1,2 @@
 # PROGIDY_DS_03
-Decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. 
+This R script utilizes the rpart and rpart.plot libraries to build and visualize a decision tree model on the Bank Marketing dataset. It includes steps for data loading, preprocessing, feature selection, model training, visualization, and evaluation using a confusion matrix. Users can easily adapt the script for similar datasets or customize it to meet specific modeling requirements.
